@@ -4,6 +4,9 @@
 
 @implementation FISAppDelegate
 
+
+// Open and navigate an Xcode project file.
+// Print a message to the debug console during run time.
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 
     /**
